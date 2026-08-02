@@ -11,8 +11,8 @@ mv ~/hyprland-gamingshell/gamingshell.conf ~/.config/hypr/gamingshell
 mv ~/hyprland-gamingshell/steam-gamemode.sh ~/.local/bin
 mv ~/hyprland-gamingshell/heroic-gamemode.sh ~/.local/bin
 mv ~/hyprland-gamingshell/config.rasi ~/.config/rofi
-chmod 777 ~/.local/bin/heroic-gamemode.sh
-chmod 777 ~/.local/bin/steam-gamemode.sh
+chmod 755 ~/.local/bin/heroic-gamemode.sh
+chmod 755 ~/.local/bin/steam-gamemode.sh
 echo "Add the line source=~/.config/hypr/gamingshell/gamingshell.conf to the config, you can remove the keybinds in this config or ~/.config/hypr/gamingshell/gamingshell.conf"
 sleep 10
 nano ~/.config/hypr/hyprland.conf
