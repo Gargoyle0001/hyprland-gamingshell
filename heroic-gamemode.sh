@@ -3,7 +3,7 @@ killall waybar
 killall -STOP hyprland
 heroic
 if command -v gamemoded &> /dev/null; then
-	gamemode -r &
+	gamemoded -r &
 fi
 sudo cpupower frequency-set -g performance
 sleep 10,
