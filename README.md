@@ -16,4 +16,4 @@ I added a theme for sddm
 And a sddm theme
 
 The file is too big for GitHub, so Imma give it to you via a Link. Still, just run the install.sh, no need to do more!
-https://mega.nz/folder/A3QnURoZ#-Ik4Tm1AlcVGzkVWHSzi0A
+https://mega.nz/folder/53wh3BZb#Jja2AjmFYiLjwX4y_JKU_Q
